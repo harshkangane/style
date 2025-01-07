@@ -13,9 +13,9 @@
 
   <h2 align="center">Homeverse - Real estate website</h2>
 
-  Homeverse is fully responsive Real estate website, <br />Responsive for all devices, built using HTML, CSS, and JavaScript.
+  style is fully responsive Real estate website, <br />Responsive for all devices, built using HTML, CSS, and JavaScript.
 
-  <a href="https://codewithsadee.github.io/homeverse/"><strong>➥ Live Demo</strong></a>
+  <a href="(https://harshkangane.github.io/style/)"><strong>➥ Live Demo</strong></a>
 
 </div>
 
@@ -34,23 +34,23 @@ Before you begin, ensure you have met the following requirements:
 
 ### Run Locally
 
-To run **Homeverse** locally, run this command on your git bash:
+To run **style** locally, run this command on your git bash:
 
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/codewithsadee/homeverse.git
+sudo git clone https://harshkangane.github.io/style/homeverse.git
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/codewithsadee/homeverse.git
+git clone https://harshkangane.github.io/style/style.git
 ```
 
 ### Contact
 
-If you want to contact with me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
+If you want to contact with me you can reach me at [Twitter](https://harshkangane.github.io/style/).
 
 ### License
 
